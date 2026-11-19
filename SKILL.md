@@ -35,6 +35,10 @@ Interactive skill for creating a complete, stack-agnostic business/product speci
 
 ## Workflow
 
+### Step 0 — Self-diagnose
+
+Read `AGENT-NOTES.md` first. It documents known issues, unverified assumptions, and self-repair guidance. If any file is missing or behaves unexpectedly, consult it before telling the user something is broken.
+
 ### Step 1 — Load context + reference
 
 Before asking the first question, read these in the skill folder:
