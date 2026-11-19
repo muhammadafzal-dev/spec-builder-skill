@@ -1,5 +1,6 @@
 ---
 name: spec-builder
+version: 1.0.0
 description: Interactive business/product specification builder. Use when the user starts a new project discussion and wants to create a complete SRS (Software Requirements Specification) before implementation. Walks through structured questions covering roles, workflows, data model, integrations, non-functional requirements, edge cases, and scope boundaries. Produces a stack-agnostic business spec that can be handed to any dev team. Triggers on "/spec-builder", "new project spec", "build a spec", "create requirements doc", "let's spec out X", or when the user describes a new product idea and wants structured capture.
 ---
 
