@@ -1,0 +1,21 @@
+# User drafts (not shared across installs)
+drafts/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backups
+*.bak
+*.original.md
+
+# Local overrides
+.env
+.env.local
